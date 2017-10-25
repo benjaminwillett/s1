@@ -1,4 +1,4 @@
-## Welcome to my AWS S1 Pages
+## Welcome to my AWS S3 Pages
 
 Learn How To Host Images Amazon S3
 ## 1.  Create an AWS Account
