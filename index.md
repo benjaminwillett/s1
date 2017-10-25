@@ -6,9 +6,9 @@ Head on over to https://aws.amazon.com and setup a new account. You should only 
  
 ## 2.  Create an S3 Bucket
 Once your account is setup and verified, we need to create a bucket. A bucket is similar to a folder on your computer and the only limitation of a bucket is that you must have a unique name across all of aws. Typically we suggest your business name – media. (ie: mybusinessname-media).
-1.  Once logged in and verified in AWS, click the Services dropdown in the top left and Select Amazon S3 
-2.  Click Create Bucket, enter the name, and select Region: US Standard
- 
+1. Once logged in and verified in AWS, click the Services dropdown in the top left and Select Amazon S3 
+2. Click Create Bucket, enter the name, and select Region: US Standard
+
 ## 3.  Upload your files into the bucket
 Once created, click on the bucket name in the list on the left and then click Upload on the next screen
  
@@ -24,11 +24,11 @@ If you did everything right, clicking that link should show you the image in you
 Now you can send us an example URL of one file and we’ll be able to get your files over the internet with out the need for a disk and so you can share in the future.
 If you need to add new ones you can repeat step 3 over and over again.
 
-1.  Create AWS Account
-2.  Create S3 Bucket
-3.  Upload files to the S3 Bucket
-4.  Make bucket accessible to the world
-5.  Found how to get the URL for the image.
+1. NumberedCreate AWS Account
+2. Create S3 Bucket
+3. Upload files to the S3 Bucket
+4. Make bucket accessible to the world
+5. Found how to get the URL for the image.
 
 
 ### Markdown
