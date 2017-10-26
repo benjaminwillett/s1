@@ -24,7 +24,7 @@ If you did everything right, clicking that link should show you the image in you
 Now you can send us an example URL of one file and we’ll be able to get your files over the internet with out the need for a disk and so you can share in the future.
 If you need to add new ones you can repeat step 3 over and over again.
 
-1. NumberedCreate AWS Account
+1. Create AWS Account
 2. Create S3 Bucket
 3. Upload files to the S3 Bucket
 4. Make bucket accessible to the world
